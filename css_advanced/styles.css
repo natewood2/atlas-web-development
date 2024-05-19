@@ -1,0 +1,105 @@
+body {
+    background-image: url('../html_advanced/background.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body, h2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.logo {
+    padding-left: 8%;
+    padding-top: 1%;
+}
+
+header-links {
+    font-family: 'Source Sans Pro' sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header-links {
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+.nav {
+    display: flex;
+    margin-top: -1.77%;
+    padding-right: 125px;
+}
+
+.nav li {
+    margin: 0 10px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 10px 15px;
+}
+
+.get-school-w-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.get-school-w-button h1 {
+    font-size: 9em;
+    margin-top: 175px;
+    margin-bottom: 0%;
+    padding: 0%;
+    text-align: center;
+    color:#FFFFFF
+}
+
+.get-school-w-button p {
+    font-size: 19px;
+    margin-top: 2px;
+    text-align: center;
+    font-weight: 600;
+    color: #FFFFFF;
+    word-spacing: 60px;
+    padding-bottom: 20px;
+}
+
+button {
+    padding: 14px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #C271FF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0px 3px 10px rgba(4, 4, 4, 0.437);
+}
+
+.the-pros {
+    text-align: center;
+    margin-top: 150px;
+    font-size: 2em;
+    font-weight: 200;
+    color: #ffffff;
+}
+
+.purple-word {
+    color: #C271FF;
+    font-weight: 600;
+}
