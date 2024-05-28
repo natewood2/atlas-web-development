@@ -251,6 +251,12 @@ button {
     box-sizing: border-box;
     padding-left: 175px;
     padding-right: 175px;
+    color: #071629;
+    transform: scale(1.1);
+}
+
+.faq-question p {
+    opacity: 40%;
 }
 
 h1 {
@@ -278,12 +284,13 @@ p {
     height: 249px !important;
     box-sizing: border-box;
     text-align: center;
+    justify-content: center;
 }
 
 .footer-content {
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 80%;
 }
 
 .footer-logo {
@@ -296,4 +303,21 @@ p {
     text-align: center;
     margin-top: 150px;
     opacity: 35.17%;
+}
+
+.phillip {
+    margin-right: 25px;
+}
+
+.evil-smiley {
+    padding-bottom: 5%;
+    padding-top: 0%;
+}
+
+.more-filler {
+
+}
+
+.awesome-faq {
+    font-weight: 300;
 }
