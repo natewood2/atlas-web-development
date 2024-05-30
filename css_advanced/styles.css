@@ -248,7 +248,6 @@ button {
 }
 
 .faq-question {
-    box-sizing: border-box;
     padding-left: 175px;
     padding-right: 175px;
     color: #071629;
